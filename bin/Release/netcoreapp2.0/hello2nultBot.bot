@@ -1,0 +1,52 @@
+{
+  "name": "hello2nultBot",
+  "padlock": "dtR9ew2j6EMldCe0F9rY2w==!giPzW3Nc4ysq95qXOtUekYWIXYIxyEIvxis6KQQsqaM+5+dgHAkbv6JGDCiP8EqS",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "53d926b2-0373-4a76-8641-e3f5488f632d",
+      "subscriptionId": "dbeeb0d0-2a9e-4c7c-9d5c-1cd0a73b9739",
+      "resourceGroup": "StudyAzure",
+      "serviceName": "hello2nultBot",
+      "type": "abs",
+      "name": "hello2nultBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "nDJQGFuTfm0u0S6XlW1apw==!gQRbfOFjy2CY7mUcZNbsYAO8vUx5LTLvJH0A8XDajdJGqjSR+7ErjIJNzPLSr9Mro28BqJvtPnWo7wil9MuaFkM9K6NDTNR/VRWn+UJNxm17OeGT3+siTOj56RFMmCt3PVptAP8VTgFEgOMEpqqAjjVMc5VEztR5ICCtg5350Movnsfe2lFO2X2KUl7QeagsZxe4yyq3pqo3F67Y9MECQaAVMj1fEBWFW1P8/HlOIm8=",
+      "tenantId": "53d926b2-0373-4a76-8641-e3f5488f632d",
+      "subscriptionId": "dbeeb0d0-2a9e-4c7c-9d5c-1cd0a73b9739",
+      "resourceGroup": "StudyAzure",
+      "serviceName": "hello2nultbot820e",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "4559e3fe-786d-45e1-bf63-7adca3e6f538",
+      "appPassword": "e/JptObkGGu8TuZ3GfASHQ==!mjvQfndz3fvHCPtEBsrMkwCSFFz7JwHAkw342LehOQs=",
+      "endpoint": "https://hello2nultbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "+n8IwiyOHs3jcLuxEdZYfQ==!fABTEhV/l1BowAJyh1AQqFheTdPMEai+Z32joT+nrJbJ/TstNZNiGbV7cquPaGsT",
+      "applicationId": "4140c9ef-97de-4c7d-9c88-019f042d7a57",
+      "apiKeys": {},
+      "tenantId": "53d926b2-0373-4a76-8641-e3f5488f632d",
+      "subscriptionId": "dbeeb0d0-2a9e-4c7c-9d5c-1cd0a73b9739",
+      "resourceGroup": "StudyAzure",
+      "serviceName": "hello2nultBot3bgnta",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

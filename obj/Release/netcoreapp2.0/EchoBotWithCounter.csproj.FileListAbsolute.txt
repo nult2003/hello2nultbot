@@ -1,0 +1,12 @@
+D:\home\site\wwwroot\bin\Release\netcoreapp2.0\hello2nultBot.bot
+D:\home\site\wwwroot\bin\Release\netcoreapp2.0\EchoBotWithCounter.deps.json
+D:\home\site\wwwroot\bin\Release\netcoreapp2.0\EchoBotWithCounter.runtimeconfig.json
+D:\home\site\wwwroot\bin\Release\netcoreapp2.0\EchoBotWithCounter.runtimeconfig.dev.json
+D:\home\site\wwwroot\bin\Release\netcoreapp2.0\EchoBotWithCounter.dll
+D:\home\site\wwwroot\bin\Release\netcoreapp2.0\EchoBotWithCounter.pdb
+D:\home\site\wwwroot\obj\Release\netcoreapp2.0\EchoBotWithCounter.csprojAssemblyReference.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.0\EchoBotWithCounter.csproj.CoreCompileInputs.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.0\EchoBotWithCounter.AssemblyInfoInputs.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.0\EchoBotWithCounter.AssemblyInfo.cs
+D:\home\site\wwwroot\obj\Release\netcoreapp2.0\EchoBotWithCounter.dll
+D:\home\site\wwwroot\obj\Release\netcoreapp2.0\EchoBotWithCounter.pdb

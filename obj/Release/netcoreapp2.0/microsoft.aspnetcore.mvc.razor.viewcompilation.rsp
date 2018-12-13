@@ -1,0 +1,5 @@
+D:\home\site\wwwroot
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=EchoBotWithCounter
+--content-root=D:\home\site\wwwroot
+--file=
